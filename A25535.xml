@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to a paper, called, The case of the auditors and receivers of His Majesty's revenue with a brief description of the antient course of the Exchequer for bringing in the crown-revenues : as also, some reasons wherefore the augmentation-revenue of the crown may be charged in the great roll of the Exchequer, and brought in by sheriffs : humbly offered to consideration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25535</idno>
+            <idno type="STC">Wing A3327</idno>
+            <idno type="STC">ESTC R225</idno>
+            <idno type="EEBO-CITATION">13413744</idno>
+            <idno type="OCLC">ocm 13413744</idno>
+            <idno type="VID">99447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 782:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to a paper, called, The case of the auditors and receivers of His Majesty's revenue with a brief description of the antient course of the Exchequer for bringing in the crown-revenues : as also, some reasons wherefore the augmentation-revenue of the crown may be charged in the great roll of the Exchequer, and brought in by sheriffs : humbly offered to consideration.</title>
+               </titleStmt>
+               <extent>[4], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Exchequer.</term>
+               <term>Case of the auditors and receivers of His Majesty's revenue.</term>
+               <term>Revenue --  England --  Early works to 1800.</term>
+               <term>Revenue --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99447:1"/>
+            <pb facs="tcp:99447:1"/>
+            <p>AN ANSWER To a Paper, called, <hi>The Caſe of the Auditors and Receivers of His</hi> MAJESTY<hi>'s Revenue.</hi>
+            </p>
+            <p>WITH A Brief Deſcription of the Antient Courſe of the <hi>EXCHEQ<g ref="char:V">Ʋ</g>ER</hi> for bringing in the Crown-Revenues.</p>
+            <p>AS ALSO, Some Reaſons wherefore the <hi>Augmentation-Revenue</hi> of the <hi>CROWN</hi> may be charged in the Great Roll of the <hi>Exchequer,</hi> and brought in by the SHERIFFS.</p>
+            <p>
+               <hi>Humbly offered to Conſideration.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> 1662.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:99447:2"/>
+            <pb facs="tcp:99447:2"/>
+            <head>A TABLE of the Contents.</head>
+            <list>
+               <item>THe Courſe held for the Crown Revenue before <hi>H. 3.</hi> time. <hi>pag. 1</hi>
+               </item>
+               <item>How it ſhall be levyed. <hi>Magna Charta. pag. 4</hi>
+               </item>
+               <item>How all Accomptants ought to be called to Account, and make payment. <hi>Stat. 51. H. 3. pag. 4</hi>
+               </item>
+               <item>Eſtabliſhment made <hi>54. H. 3.</hi> ſuitable to the ſaid Statute. <hi>pag. 4</hi>
+               </item>
+               <item>Statute <hi>10. E. 1.</hi> confirming the ſaid Eſtabliſhment with ſome Ad<g ref="char:EOLhyphen"/>ditions. <hi>pag. 5</hi>
+               </item>
+               <item>How forreign Accompts were taken in all former times. <hi>pag. 5</hi>
+               </item>
+               <item>How and by whom in what manner Tailes of the Exchequet ought to be allowed. <hi>pag. 6</hi>
+               </item>
+               <item>How the Revenue is to be charged, and how diſcharges are made in the Great Roll. <hi>pag. 6</hi>
+               </item>
+               <item>The Tenor of the Summons of the Exchequer. <hi>pag. 6</hi>
+               </item>
+               <item>Tailes not being rejoyned ſhall be reputed as null. <hi>pag. 7</hi>
+               </item>
+               <item>How loſt Tailes ſhall be Innovated. <hi>pag. 7</hi>
+               </item>
+               <item>The right uſe of the Tallies <hi>pag. 7</hi>
+               </item>
+               <item>How the Sheriff not acquitting the Debtor ſhall be delt with. <hi>pag. 7</hi>
+               </item>
+               <item>How the Clerk ſo offending ſhall be puniſhed. <hi>pag. 7</hi>
+               </item>
+               <item>The Authority of the great Roll. <hi>pag. 7</hi>
+               </item>
+               <item>The Comptrolment Roll and the ſingular uſe thereof. <hi>pag. 8</hi>
+               </item>
+               <item>Ingroſſer, Comptroller, and Remembrancers Duties. <hi>pag. 9</hi>
+               </item>
+               <item>The Antient eſtabliſhed Comptrol, and how confirmed. <hi>pag. 9</hi>
+               </item>
+               <item>Anſwers to the Auditors Objections. <hi>pag. 9</hi>
+               </item>
+               <item>Many Accompts taken, but not ingroſſed, and many imbezilled. <hi>24 H. 7. pag. 10</hi>
+               </item>
+               <item>Accompts of the demiſeable Crown Lands to be delivered into the Pipe. <hi>Stat. 6. H. 8. pag. 10</hi>
+               </item>
+               <item>Eſtabliſhment made <hi>38. H. 8.</hi> and confirmed <hi>7. E. 6. pag. 10</hi>
+               </item>
+               <item>Accompts to be ingroſſed and delivered into the Augmentation Court. <hi>pag. 11</hi>
+               </item>
+               <item>Auditors might take Copies thereof within their Circuits. <hi>pag. 11</hi>
+               </item>
+               <pb facs="tcp:99447:3"/>
+               <item>Augmentation Court diſſolved and annexed to the Exchequer. <hi>Stat. 1. Ma. pag. 11</hi>
+               </item>
+               <item>Eſtabliſhment then made by Authority of Parliament. <hi>pag. 12</hi>
+               </item>
+               <item>Accompts to be yearly Ingroſſed, declared and delivered into the Pipe, there to remain. <hi>pag. 12</hi>
+               </item>
+               <item>Accompts of the Augmentation Revenue delivered by Mittimus to the Ingroſſer. <hi>pag. 13</hi>
+               </item>
+               <item>Auditors undue proceedings being no Officers of Record. <hi>pag. 14</hi>
+               </item>
+               <item>In admitting and diſmiſmiſſing Accomptants to and from their Ac<g ref="char:EOLhyphen"/>compts unſworn. <hi>pag. 15</hi>
+               </item>
+               <item>In not ſuffering the Accomptants Tailes to be rejoyned. <hi>pag. 15</hi>
+               </item>
+               <item>In not Ingroſſing, not Declaring, and not delivering up thoſe Ac<g ref="char:EOLhyphen"/>compts they have taken. <hi>pag. 15</hi>
+               </item>
+               <item>Many Supers and Debts have thereby long time depended, to the prejudice of Prince and People. <hi>pag. 15</hi>
+               </item>
+               <item>Many rents have been and are omitted to be charged. <hi>pag. 15</hi>
+               </item>
+               <item>One Accompt in the great Roll, will comprehend <hi>100</hi> Accompts now taken by the Auditors. <hi>pag. 17</hi>
+               </item>
+               <item>Five times more brought in yearly by the Summons then by all other the Proceſſe of the Exchequer. <hi>pag. 18</hi>
+               </item>
+               <item>How the <hi>Statute 51. H. 3.</hi> hath been and is obſerved. <hi>pag. 18</hi>
+               </item>
+               <item>Anſwers to the Miſchiefs objected. <hi>pag. 19</hi>
+               </item>
+               <item>
+                  <hi>H. 6.</hi> Writ proving Sheriffs the only uſeful Receivers. <hi>pag. 21</hi>
+               </item>
+               <item>The Lords of the Councell report therein. <hi>pag. 22</hi>
+               </item>
+               <item>Sir <hi>R. Cottons</hi> Learned advice. <hi>pag. 25</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99447:3"/>
+            <head>The Antient Courſe <hi>OF The EXCHEQUER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT by the antient Eſtabliſh<g ref="char:EOLhyphen"/>ment and Ordinances of the Ex<g ref="char:EOLhyphen"/>cheques, and by the Statutes of this Realm, all the Revenues of the <hi>Crown</hi> of <hi>England,</hi> both Cer<g ref="char:EOLhyphen"/>tain and Caſual, within the Go<g ref="char:EOLhyphen"/>vernment, Rule, and Survey of the Court of Exchequer, from the time of King <hi>Stephen,</hi> until about the 25. year of Queen <hi>Elizabeth,</hi> were yearly drawn down from the Offices of the Remembrancers there, and were charged in the great Roll of the ſaid Court by the Ingroſſer of the ſaid great Roll, according to his Oath in that behalf, which in antient times was done thus.</p>
+            <p>All the Farm Rents,<note place="margin">In Libro Nigr Scac. In Mag. Rot. Scac. in tem<g ref="char:EOLhyphen"/>poribus R. Steph. H. <hi>2.</hi> Rich. <hi>1.</hi> &amp; Reg. Johan.</note> with the Iſſues and Profits of the Antient Demeaſn and Eſcheat Lands of the Crown ariſing within every County, were charged in the ſaid great Roll in one entire Body, called, <hi>Firma Comitatus,</hi> and under one groſs ſum for the whole, the Particulars whereof were contained in another diſtinct Roll for that purpoſe. And the Sheriff of each County (who antiently were Earls in diverſe Counties, and ſometimes the King's Eldeſt Son, for ſo Prince <hi>Edward,</hi> the Son of <hi>Hen.</hi> 3. for the Counties of <hi>Bedford</hi> and <hi>Bucks,</hi> for di<g ref="char:EOLhyphen"/>verſe years together, in the time of his Father's Reign) was charged to anſwer the ſame at the Exchequer of <hi>Eaſter,</hi> and at the Exchequer of <hi>Michaelmas</hi> yearly;
+<pb n="4" facs="tcp:99447:4"/>and if the Sheriff failed to appear at his prefix'd day to be ſworn to his Accompt, he forfeited for every days failer <hi>C s.</hi> But if after his being ſworn to Accompt, he departed (not having finiſhed the ſame) without Li<g ref="char:EOLhyphen"/>cenſe of the Court, his Lands and Goods were to be ſeized into the Kings hands, and the Iſſues and Profits thereof were to be anſwered, without any deduction to be had for the ſame upon his accompt.</p>
+            <p>Afterwards King <hi>Hen.</hi> 3. (who Reigned almoſt an old mans age) being no doubt well acquainted, as well with the Accompts of the Crown-Revenues which were made in his own, his Fathers, his Uncles, and his Grand-fathers time, which are ſafely preſerved without blemiſh to this day. <hi>As alſo</hi> with thoſe ſpecial Dialogues which <hi>Gervaſiuc Tilburienſis</hi> had Penned and Dedicated to his Grand-father King <hi>Hen.</hi> 2. in the twentieth year of his Reign, touching the Original Inſtitution and Dignity of the Exchequer Court, and the ſingular uſe of which the Authentick great Roll and Tailes of that Court were, as well for bringing all the Revenue under one due Cheque and Controll, as for the Subjects Diſcharge: And not unmindful of the Statutes (which himſelf had made) of <hi>Magna Charta,</hi> and of the Statute of the Ex<g ref="char:EOLhyphen"/>chequer in the 51 year of his Reign, did by and with the advice and conſent of his Great Council (to wit, his Brother <hi>Richard</hi> King of the <hi>Romans, Walter</hi> Archbiſhop of <hi>York, Geoffrey</hi> Biſhop of <hi>Worceſter,</hi> Prince <hi>Edward</hi> the King's Son, who ſucceeded his Father in Government; <hi>William de Valencia</hi> the Kings Brother, <hi>Roger de Mortuo, Mari, Philip Baſſet, Henry de Allen, Robert Aquylin, Albert Wallerand,</hi> and other great men who were of the King's Council) eſtabliſh and provide a certain form (ſutable to the ſaid Statute of the 51 of <hi>Henry</hi> the 3 <hi>d.</hi> to be from thence held in writing the ſaid Great Roll, wherein the Bodies of the Counties (called in the Roll <hi>Firma
+<pb n="5" facs="tcp:99447:4"/>Comitatuum,</hi> which conſiſted, as before hath been ſhewn, of the antient Demeaſn and Eſcheat Lands and Rents of the Crown, and amounted unto 10700 <hi>l. per Annum</hi>) were to be written: afterwards the Sheriffs was to be charged with the Farm of the Profits of the County. Next that was to be written all Farms, as well the greater as the leſſer, and all determined Debts likewiſe, all great Debts, and other known Debts unto the Title in the ſaid Roll of <hi>Nova Oblata,</hi> (which diſtinguiſheth the new Farms and Debts from the old) and after that Title was to be written, all Debts contained in the Ori<g ref="char:EOLhyphen"/>ginals, as well great as little, wherewith the Sheriffs were charged by their Anſwers or Returns. The ſaid word Originalls ſignifying the Records, Extracts, In<g ref="char:EOLhyphen"/>quiſitions, Seiſures, and Certificates, delivered to, or remaining in, the Remembrancers Offices of the Ex<g ref="char:EOLhyphen"/>chequer, which form (being no other in ſubſtance than what was before that time obſerved in writing the ſaid great Roll) was afterwards confirmed by Statute 10 <hi>E.</hi> 1. with ſome additions, which hath been conſtantly held, and ſo is at this day; and the Remainder of thoſe antient forms of Counties are now in charge, and conſiſt of many ſmall Vicounted Rents of ſundry natures.</p>
+            <p>And furthermore all yearly, forein,<note place="margin">
+                  <hi>Lib. Rub. Scac. p.</hi> 279. <hi>cap.</hi> 3.6, 7, 8. <hi>Ib. p.</hi> 287. <hi>cap.</hi> 1, 2, 3.</note> and other Ac<g ref="char:EOLhyphen"/>compts of Eſcheaters, Receivers, Collectors, Guardians, Cuſtomers, and other Accomptants whatſoever, taken by the Autitors of the ſaid Court, of, and for any branch of the ſaid Revenues, whether Certain or Caſual, were an<g ref="char:EOLhyphen"/>tiently Ingroſſed in Parchment, and declared before the Treaſurer and Barons of the ſaid Court, or ſome of them; and being ſo declared, the particulars thereof were deli<g ref="char:EOLhyphen"/>vered into the Kings Remembrancers Office to be there ſafely kept for the uſe of the Crown; &amp; the ſaid Accompts were briefly entred in the Rolls of States and views of Ac<g ref="char:EOLhyphen"/>compts in the Remembrancers Offices, and were imme<g ref="char:EOLhyphen"/>diately
+<pb n="6" facs="tcp:99447:5"/>after delivered to the ſaid Ingroſſer, to be by him, after full Examination (all things proving clear) Ingroſſed and charged, and the Debts and Supers there<g ref="char:EOLhyphen"/>in contained, ſet forth in the ſaid Roll.</p>
+            <p>And by the courſe of the Court, no Talley ought to be allowed untill it be firſt rejoyned and tryed with its Counterfoile, by the Deputy Chamberlains before the Barons in open Court, and the Deputy Chamberlains are ſworn to deliver the Taile (proving true) immediately to the Ingroſſer of the great Roll, who likewiſe is ſworn to make preſent allowance thereof, which is done in great Letters, by digeſting the Subſtance thereof in writing in the Roll, as antient Eſtabliſhment hath ordained.</p>
+            <p>Nothing is charged in this Roll, but from the original Records remaining with the Remembraners, and what is charged in the great Roll, is no ways diſchargeable, but by the Kings Letters Patents or Writs, under the Great Seal or Privy Seal, or elſe by judgement of Court; And every Rent and Debt thus charged, is according to <hi>Magna Charta cap.</hi> 8. firſt written forth in the Summons of the Exchequer, directed to the Sheriffs, half yearly to be levyed, who by the Statute of the Exchequer, 51. <hi>H.</hi> 3. are to anſwer ſo much thereof as is thereby levi<g ref="char:EOLhyphen"/>able at the Proffer; or elſe upon finiſhing his accompt; and that the Summons of the Exchequer is no weak pro<g ref="char:EOLhyphen"/>ceſſe, as the Gentlemen in their <hi>Caſe</hi> have ſet forth, will appear by the enſuing Tenor thereof, as <hi>Gervaſius Tilbu. rienſis</hi> hath it in the ſaid Dialogues under this Title; <hi>Unde fiunt Summonicones Scaccariiſſ. Henricus Rex Anglorum illi vel illi vic. Salutem vide ſicut teipſum &amp; omnia tua diligis quod ſis ad Scaccarium ibi vel ibi in Cro. Sci. Michael vel in Cro. Clauſi Paſche &amp; habeas tecum ibi quicquid debes de ve<g ref="char:EOLhyphen"/>teri firma vel nova &amp; nominatim haec debita Subſcripta de ill. X. marc pro hac cauſa &amp; ſic deinceps annotatis debitis illic ſeriatim cum cauſis que in Major Annal. Rot. continentur
+<pb n="7" facs="tcp:99447:5"/>proferuntur minores quoque perambulantium Judicum Rot. ex quibus excipiuntur quae in ſingul. Com. Domino Regi labore, &amp; induſtria ipſorum, &amp; hiis taxatis a majoribus in Summo<g ref="char:EOLhyphen"/>nitionibus annotantur quibus per ordinem digeſtis terminatur Summonico per haec verba; Et haec tecum habeas in Denariis, &amp; Brevibus, &amp; Taliis, &amp; Quietanciis vel capientur de firma tua Teſte illo vel illo ibi ad Scaccarium.</hi>
+            </p>
+            <p>And thoſe who will not deliver their Tailes to be al<g ref="char:EOLhyphen"/>lowed,<note place="margin">Stat. <hi>10.</hi> E. <hi>1.</hi>
+               </note> ſhall be anſwerable for the whole Debt they had paid, and their Tailes ſhall be reputed for Null.</p>
+            <p>And by an Eſtabliſhment made <hi>Ann.</hi> 14. <hi>E.</hi> 1. It was provided for the Indempnity of King and Subject, that when any Taile of the Exchequer happened to be loſt (neceſſity urging the ſame to be innovated) the foyle or Counterpart thereof ſhould be damned, and that new Tailes ſhould be made as in times then paſt in ſuch caſes had been accuſtomed to be done; which courſe hath ever ſince continued, as witneſſeth the Rolls thereof remain<g ref="char:EOLhyphen"/>ing in the Tailey Court in the Lower Chequer.</p>
+            <p>And this point hath been the longer inſiſted upon, becauſe that the very life blood of the Exchequer lies as it were wrapt up in the due and right uſe of the Tailes of the Exchequer, being the chief heart-ſtrings of the ſaid Court, for bringing the whole Revenue under one certain Check and Comptroll, which of late years hath been much infringed, as will hereafter be ſhewen, and which hath uſhered in a hundred inconveniences to the no little prejudice of the Crown and the Subject, as may eaſily be made to appear.</p>
+            <p>And the Sheriff that ſhall not acquit the Debtors of the Moneys which he hath received upon his next Ac<g ref="char:EOLhyphen"/>compt,<note place="margin">Stat. weſtm. <hi>1.</hi> E. <hi>1.</hi> cap.</note> and be thereof attained, ſhall pay the Plaintiff thrice as much as he received, and make Fine at the Kings pleaſure.</p>
+            <p>The writing of this Roll is to be in Great Letters,<note place="margin">Lib. Nigr. Scci. Jervaſ. Tilbur.</note> and
+<pb n="8" facs="tcp:99447:6"/>the Authority of the ſame is ſuch, That if by chance the Inggroſſer thereof fortune to miſtake in writing the ſame, either in Name, Number or Cauſe, wherein the Greateſt force of the writing conſiſteth, he may not pre<g ref="char:EOLhyphen"/>ſume to ſcrape it out, but by drawing a ſmall line under<g ref="char:EOLhyphen"/>neath it, Cancel it, and write in order what is requiſite, for the writing of the ſaid Roll hath the ſame Priviledge, with Charters and other Letters Patents, and may not be raiſed or ſcraped.</p>
+            <p>The aforeſaid great Roll hath always had a particular Comptroller eſtabliſhed over it,<note place="margin">The Comp<g ref="char:EOLhyphen"/>trolment Roll.</note> who writeth and keepeth yearly a Counter Roll or Comptrollment Roll of the ſaid great Roll, and of every particular Branch of the Reve<g ref="char:EOLhyphen"/>nues therein charged; And alſo of all Diſcharges and Allowances therein made, and writeth forth proceſſe from the ſaid Great Roll, every <hi>Hillary</hi> and <hi>Trinity</hi> Term yearly, directed to the Sheriff or Sheriffs of every County and City, and Town made County, for levying the Re<g ref="char:EOLhyphen"/>venues therein charged:<note place="margin">The Duty of the Ingroſſer and Comptro<g ref="char:EOLhyphen"/>ler.</note> And the Ingroſſer (together with the ſaid Comptroller) attend the Barons at all Ap<g ref="char:EOLhyphen"/>poſals, upon return of proceſſe, and urge the ſpeedy an<g ref="char:EOLhyphen"/>ſwering of the ſaid Revenues, and enter the Awards of the Court in the ſaid Rolls, charging the Sheriff in great letters with whatſoever he is to be charged; and diſchar<g ref="char:EOLhyphen"/>ging all Farmors and Debtors in the ſaid great Roll, and Comptrolment Roll, of all ſuch monies, as Sheriffs an<g ref="char:EOLhyphen"/>ſwer upon Accompt, without their further charges and trouble; And all Debts and Sums of monies continuing charged in the great Roll, as not being anſwered upon the Summons of the Exchequer, are immediately ſcheduled to and written out in proceſſe of Extent by the Re<g ref="char:EOLhyphen"/>membrancers; and alſo all Debts,<note place="margin">Stat. <hi>37.</hi> E. <hi>3.</hi> cap. <hi>4.</hi>
+               </note> Inquiſitions and Sei<g ref="char:EOLhyphen"/>zures of Lands, which were diſcharged by Judgement of Court, or Grants from the Crown in the ſaid Re<g ref="char:EOLhyphen"/>membrancers, offices, are acquitted in the ſaid great Roll,
+<pb n="9" facs="tcp:99447:6"/>and the Debts paid and anſwered in the great Roll are diſcharged in the ſaid Remembrancers Offices.</p>
+            <p>All dead Farms and deſperate Debts,<note place="margin">Stat. <hi>10.</hi> E. <hi>1</hi>
+               </note> whereof there is no hopes, are removed out of the ſaid great Roll, and written in another Roll for that purpoſe Ordained, called the Exannual Roll: But are continued in yearly proceſſe to be levyed; and ſuch of thoſe Debts as the Sheriffs anſwer or become revived, are written again in the ſaid great Roll, and there paid or diſcharged.</p>
+            <p>And it is lawful for the ſaid Comptroller,<note place="margin">Lib. nig. Sccii. G. T.</note> to admoniſh the ſaid Ingroſſer what he ought to amend: But if he perſiſt and will not alter what is done amiſſe, he may call him before the Barons, that by them may be determined what is fitting to be done; for the ſaid great Roll may not be altered, but by the common conſent of all the Ba<g ref="char:EOLhyphen"/>rons, whileſt the Exchequer ſitteth.</p>
+            <p>And agreeable hereunto are theſe ſeveral ſubſequent Statutes; <hi>viz.</hi> The Statute of <hi>Weſtminſter</hi> 1. 3. <hi>E.</hi> 1. <hi>cap.</hi> 19. Statute of <hi>Rutland</hi> 10 <hi>E.</hi> 1. The Articles of the Exchequer, made <hi>An.</hi> 16 <hi>E.</hi> 2. The Ordinance of the Exchequer, made <hi>An.</hi> 19. <hi>E.</hi> 2. <hi>Stat.</hi> 37. <hi>E.</hi> 3. <hi>cap.</hi> 4. <hi>Stat.</hi> 1. <hi>R.</hi> 2. <hi>cap.</hi> 5. <hi>Stat.</hi> 5. <hi>R.</hi> 2. <hi>cap.</hi> 14. <hi>Stat.</hi> 6. <hi>H.</hi> 4. <hi>cap.</hi> 3 <hi>Stat.</hi> 34 <hi>&amp;</hi> 35 <hi>H.</hi> 8 <hi>cap.</hi> 16. <hi>Stat.</hi> 2. <hi>F.</hi> 6. <hi>cap.</hi> 4. <hi>Stat.</hi> 1. <hi>Ma. cap.</hi> 10. <hi>Stat.</hi> 21. <hi>Jac. cap.</hi> 5. and that of 8 <hi>Aug.</hi> 1649. for the Cuſtomes and Navy Accompts, <hi>cum multis aliis.</hi>
+            </p>
+            <div type="answer">
+               <head>NOW FOR ANSWER TO THE CASE.</head>
+               <p>The Gent. Penners of the Auditors and Receivers <hi>Caſe,</hi> the better to countenance ſome of their former and irregular proceedings, cite 3 <hi>Acts of Parliament.</hi> The firſt of thoſe 3 <hi>Acts</hi> they cite was <hi>Ann.</hi> 6. <hi>H.</hi> 8. (which expired <hi>An.</hi> 14. <hi>H.</hi> 8) they ſay that in the pre<g ref="char:EOLhyphen"/>amble thereof there is mention of great preſſures upon the Subjects from the Officers of the <hi>Pipe:</hi> Where in truth there are no ſuch words in the ſaid preamble, but
+<pb n="10" facs="tcp:99447:7"/>contrarywiſe it is there mentioned that divers Receivers Accompts which had been take before 24. <hi>H.</hi> 7. were then not Ingroſſed, and others imbeziled and miſcarry<g ref="char:EOLhyphen"/>ed; by reaſon whereof both the Receivers and Kings Tenants were Subject to great Vexations in the Exche<g ref="char:EOLhyphen"/>quer; and therefore and for ſome other cauſes, it was provided by that <hi>Act,</hi> that all Accompts to be after<g ref="char:EOLhyphen"/>wards taken of that Revenue, ſhould be yearly ingroſſed in Parchment, and delivered to the Barons to be entred with the Remembrancers, and filed in the <hi>Pipe,</hi> there (by the expreſs letter of the <hi>Act</hi>) to remain of Record perpetually, as well for the Kings ſecurity as for the cleer diſcharge of the Accomptants, their Heirs and Ex<g ref="char:EOLhyphen"/>ecutors for ever, which was accordingly done, as by the very Accomps ſo taken (yet remaining of Record in the <hi>Pipe</hi>) may appear; and the very like proviſion was again enacted in the ſubſequent <hi>Act</hi> made <hi>Ann.</hi> 14. <hi>H.</hi> 8. touching the Accompts of that Revenue made before the Surveyors general of the ſaid Kings demiſeable lands, for they had not above 2 or 3 Fee-farm Rents within their Survey.</p>
+               <p n="2">2.<note place="margin">Stat. <hi>7.</hi> E. <hi>6.</hi>
+                  </note> The ſecond <hi>Act</hi> cited is 7. <hi>E.</hi> 6. <hi>cap.</hi> 1. <hi>&amp;</hi> 2. which the Auditors ſay they have obſerved all along to this day (which if they had, the Crown had been much better ſer<g ref="char:EOLhyphen"/>ved, and the Subject freed from Many great Grievances and Inconveniencies as ſhall be ſhewn; For though the firſt Chapter of that <hi>Act</hi> hath a proſpect onely, providing how and when the Receivers and Bailiffs ſhould pay their Moneys, and perfect their Accompts, upon pain of for<g ref="char:EOLhyphen"/>feiture of their Offices and Fees: And providing likewiſe that the Auditors taking the accompts, ſhall not refuſe, extract or delay the taking their accompts ſo as they may be diſpatched in due time, upon pain of Forfeiture of their Offices and Fees, alſo Inabling the Receivers and Bailiffs to Diſtrein for the Rents arrear, and Impowering the
+<pb n="11" facs="tcp:99447:7"/>Barons to Amerce Sheriffs for neglects and contempts: Yet the ſecond Chapter of the ſaid <hi>Act</hi> hath not onely a Proſpect, but likewiſe a Retroſpect, confirming the Letters Patents made by King <hi>H.</hi> 8. in the 38. year of His Reign, and all and every thing and Article therein contained, as if the ſame had been done by <hi>Act</hi> of Par<g ref="char:EOLhyphen"/>liament; by which he diſſolved the Courts of general Surveyors, and the Court of the Augmentations, and erected thereof one other new Court, called the Court of Augmentation and Revenues of the Kings Crown; and thereby did ordain, that the Recievers ſhould accompt upon Oath yearly, and that their Accompts ſhould be yearly ingroſſed in Parchment by the Auditors; and that the Keeper of the Records of that Court, ſhould have the keeping thereof after they ſhould be ingroſſed; and that only the Clerk of the ſaid Court, ſhould make the Copies and Conſtats of the ſame, and that the Auditors and their Deputies, when, and as often as they ſhould have neceſſity, to have acceſſe to the Accompts of their Circuit, might make Copies out of the ſame, as often, and when neceſſity required. And furthermmore it was thereby enacted, That the ſaid King <hi>E.</hi> 6. might at any time during his life, diſſolve as well the ſaid Courts, as alſo the Courts of firſt Fruites and Tenths, and the Courts of the Dutchy of <hi>Lancaſter.</hi>
+               </p>
+               <p>The third and laſt Act vouched,<note place="margin">St. <hi>1</hi> M. c. <hi>10.</hi>
+                  </note> is 1 <hi>Ma.</hi> But they ſet not forth the effect thereof, which had they done, they muſt have ſhewn that the ſaid Queen was thereby impowred to diſſolve and determine every of the laſt be<g ref="char:EOLhyphen"/>fore mentioned Courts, and to unite and annexe the the ſame to any other of her Courts of Record, as if the ſame had been done by Act of Parliament; <hi>PRO<g ref="char:EOLhyphen"/>VIDED,</hi> That if ſhe ſhould annexe the ſaid Courts or any of them unto her Court of Exchequer, That then all things within the Survey of the ſaid Courts ſo annexed,
+<pb n="12" facs="tcp:99447:8"/>ſhould be ordered in like manner, to all intents, as the ſaid Court of the Exchequer there, was, or ought to be by the Common Laws and Statutes of this Realm: By vigour and authority of which Act,<note place="margin">Recited in the <hi>St.</hi> 1. <hi>Eliz. c.</hi> 4.</note> the ſaid Queen by 4 ſeveral Letters Patents under the great Seal, whereof 2 dated the 23. the other the 24 days of <hi>January</hi> in the firſt year of her Reign, did not only diſſolve the ſaid Courts of Augmentations, and of firſt Fruits and Tenths, and the Juriſdiction and authority thereof: But alſo did annexe the ſame Courts ſo diſſolved, to the ſaid Court of Exchequer, there to be and continue as a Member, and parcel of the ſaid Court of Exchequer, and did ap<g ref="char:EOLhyphen"/>point all the Revenues then anſwerable in the ſaid late Count of Augmentations, to the Order and Govern<g ref="char:EOLhyphen"/>ment of the ſaid Court of Exchequer, in ſuch manner and form as was then uſed, and had of other her High<g ref="char:EOLhyphen"/>neſſe lands then in the Order and Governance of the ſaid Court of Exchequer. <hi>AND FURTHERMORE</hi> it was ex<g ref="char:EOLhyphen"/>preſly provided, ordained, and eſtabliſhed, by the ſaid late Queen, in a certain Schedule, ſigned with her Highneſs hands to the ſaid Letters Patents annexed. <hi>inter all.</hi>
+               </p>
+               <p>That all Crown Rents,<note place="margin">Article. <hi>1.</hi>
+                  </note> 
+                  <hi>&amp;c.</hi> within the Survey of the Augmentations and Revenues of the Queen, ſhould be received and levyed by the Sheriff of every County, where the ſame did lye or by any other perſon or perſons that the Treaſurer or the Court ſhould appoint.</p>
+               <p>That the Accomptants for the ſaid Augmentation Re<g ref="char:EOLhyphen"/>venne,<note place="margin">Article. <hi>8.</hi>
+                  </note> ſhould appear in the Exchequer in every <hi>Hillary</hi> Term, and be ſwom to their Accounts for the year en<g ref="char:EOLhyphen"/>ded at <hi>Michaelmas</hi> before, and make and finiſh the ſame Accompts before the 24. day of <hi>February</hi> then next fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>That the Auditors taking the ſame ſhould deliver the ſame yearly Accompts ingroſſed in Parchment,<note place="margin">Article. <hi>9.</hi>
+                  </note> authorized &amp; allowed by the hands ſubſcribed of the Lord Treaſurer,
+<pb n="13" facs="tcp:99447:8"/>Chancellor, Under-Treaſurer, and Barons of the ſaid Ex<g ref="char:EOLhyphen"/>chequer, or by three of them at the leaſt, whereof the Lord Treaſurer or Vice-Treaſurer to be one, into the Office of the Pipe, within the ſaid Court of Exchequer, before the 20 day of <hi>March</hi> then next following, <hi>SO</hi> as further Proceſs might be thereupon made, if the caſe ſhould ſo require.</p>
+               <p>That the ſaid Accompts ſhould remain in the charge the ſaid Clerk of the Pipe.<note place="margin">ArtIc. <hi>15.</hi>
+                  </note>
+               </p>
+               <p>And it was alſo thereby further eſtabliſhed and or<g ref="char:EOLhyphen"/>dained,<note place="margin">Artic. <hi>13.</hi>
+                  </note> that all Accompts, and Declarations of Ac<g ref="char:EOLhyphen"/>compts, which then were in the ſaid diſſolved Court of Augmentations, ſhould be and remain in the charge of the ſaid Clerk of the Pipe in the Exchequer, in ſuch place as the Treaſurer and the ſaid Court ſhould appoint.<note place="margin">Artic. <hi>22.</hi>
+                  </note>
+               </p>
+               <p>And for that the order, eſtabliſhment, and uniting of this Court be perfectly eſtabliſhed with exerciſe, proof, and experience of the ſame, the Queens Highneſs is pleaſed, that the Lord Treaſurer and the ſaid Court of Exchequer ſhould have full power and authority from time to time, to amend, reform, and correct any clauſe or article aforeſaid, and to add to, or diminiſh any thing that ſhall be found neceſſary for the amendment of the ſame; and to make ſuch further orders from time to time as to the Court ſhall be thought expedient. And up<g ref="char:EOLhyphen"/>on this weak foundation and pillar is the whole Fabrick and Superſtructure of the <hi>Auditors</hi> erected.</p>
+               <p>And ſhortly after, all the Accompts of the ſaid Courts of Augmentation and General Surveyors, were ſent by Writ of <hi>Mittimus</hi> to the Treaſurer and Barons of the Exchequer, and delivered unto the then <hi>Clark</hi> of the <hi>Pipe;</hi> and diverſe other like Accompts of the ſaid Reve<g ref="char:EOLhyphen"/>nue taken by the <hi>Auditors</hi> of the Exchepuer for diverſe years ſince, were afterwards delivered unto one <hi>John Wooly Eſchequer-Clark</hi> of the <hi>Pipe,</hi> to whom the late
+<pb n="14" facs="tcp:99447:9"/>Queen <hi>Elizabeth</hi> by her Letters Pattents under the Great Seal, in or about the 25 year of her Reign, granted the Office of keeping of all the Accompts, as well of Mini<g ref="char:EOLhyphen"/>ſters as of Receivers, and of all other Accomptants what<g ref="char:EOLhyphen"/>ſoever in the Exchequer of the ſaid Queen, her Heirs and Succeſſors accomptable. All which Accompts ſo delivered (though few in number to what they ought to be) came by ſucceſſion to the now Ingroſſer of the ſaid great Roll, and are remaining in his charge and ſafe cuſtody, kept by themſelves in a large publick noted room, as the Law requireth, commonly called, <hi>The Aug<g ref="char:EOLhyphen"/>mentation-Office in the Exchequer at Weſtminſter,</hi> by force of the afore-ſaid Statute and Letters Pattents, <hi>Anno prime Mariae,</hi> and of the Articles and Ordinances of An<g ref="char:EOLhyphen"/>nexation thereupon made, and alſo of certain other Let<g ref="char:EOLhyphen"/>ters Patents under the Great Seal of <hi>England</hi> in that be<g ref="char:EOLhyphen"/>half made and granted by the late King <hi>CHARLES</hi> to the now Ingroſſer.</p>
+               <p>By all which it plainly appears, that none who were <hi>Auditors,</hi> either of the late Court of Augmentations, late Court of General Surveyors of the Kings Lands, or of the Court of Exchequer, were ever thought fit to be entruſted by any known Laws with the keeping of any of the Accompts of the Revenues of the Crown; it be<g ref="char:EOLhyphen"/>ing moſt improper for any to have the cuſtody of Ac<g ref="char:EOLhyphen"/>compts taken in the Exchequer, who are no Officers of Record, nor can iſſue out Proceſs, nor give any Legal Diſcharge thereupon.</p>
+               <p>And yet notwithſtanding all the ſaid eſtabliſh'd Laws,<note place="margin">The <hi>Auditors</hi> undue pro<g ref="char:EOLhyphen"/>ceedings.</note> Ordinances, and Letters Patents, divers of the former and now Auditors of the ſaid Exchequer, who took the Accompts of the ſaid <hi>Augmentation-Revenues,</hi> have de<g ref="char:EOLhyphen"/>tained above nine parts of ten parts of the ingroſſed and declared Accompts of the ſame Revenue, taken by them and their predeceſſors ſince <hi>prima Mariae,</hi> with the Tallies
+<pb n="15" facs="tcp:99447:9"/>thereupon, and refuſe, protract, and delay to bring them to the view of the ſaid Remembrancrs Clark of the Pipe, and Comptroller, and Deputy Chamberlains, whereby they might be comptrolled, but have and do detain them in their own private cuſtodies, as if they were their own Evidences, and have given the Accomp<g ref="char:EOLhyphen"/>tants before their appearing yearly in the Exchequer to be ſworn to their Accompts, or that their ſaid Accompts and Tallies were comptrolled, inſignificant Diſcharges, and forced them tot ake Duplicates of their whole Ac<g ref="char:EOLhyphen"/>compts, becauſe they were no way impowered to give them <hi>Quietus eſts;</hi> and by this uſurpation have not onely kept many thouſands of conſiderable Debts for many years together out of Proceſs, until they became pardon'd by the former and the late Acts of General Pardon; but through their neglects diverſe hundreds of Fee-farm Rents, reſerved payable to the Bailiff or Re<g ref="char:EOLhyphen"/>ceivers (onely accomptable before them) upon ſundry Letters Pattents granted ſince 20 <hi>Eliz.</hi> (for all Rents of Monaſtery Lands from 1 <hi>Mar.</hi> until about that time, were reſerved payable, <hi>ad Receptum Scaccarii tantum,</hi> and charged in the great Roll) have not been, nor are yet put in charge, to the great prejudice of the Crown: the which their remiſneſs hath occaſioned many inconvenien<g ref="char:EOLhyphen"/>cies; as firſt, their not ingroſſing in Parchment many yearly Accompts, taken of Receivers, Collectors, and Bailiffs: Secondly, their not declaring diverſe of thoſe yearly Ac<g ref="char:EOLhyphen"/>counts they have ingroſſed in Parchment before the Lord Treaſurer, Chancellor, and Barons, as the Articles of Union and Annexation enjoyneth for many years together, ſo as no Proceſs could be iſſued in due time, to recover the Debts and Supers therein. In every of which particulars they have wilfully failed, quite contrary to the Articles of Union and Annexation, which by the Statute of 1 <hi>Mar.</hi> are of like authority as if the ſame had
+<pb n="16" facs="tcp:99447:10"/>bin eſtabliſhed by Act of Parliament) and to the no little diſſatisfaction to moſt people in <hi>England,</hi> who have had any urgent occaſions to reſort for matter of Record, Evidence, or Satisfaction to the ſaid accompts, which now lye confuſed and diſperſed, which hath been, and may prove, not onely hazardous to the Crown, but to the Subjects, in evidencing their juſt Title, Contrary to the true intent and meaning of the common Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm, and the Tenor of the aforeſaid Let<g ref="char:EOLhyphen"/>ters Patents of Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and the late King <hi>Charls,</hi> granted to the ſucceſſive in<g ref="char:EOLhyphen"/>groſſers of the great annual Rolls of the Exchequer.</p>
+            </div>
+            <div type="answer">
+               <head>An Anſwer to the Objected Miſchiefs which will enſue, as to His <hi>Majeſty's</hi> Advantage, and the <hi>Subjects</hi> In<g ref="char:EOLhyphen"/>tereſt, in caſe the Bill now under Conſideration ſhould take Effect.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> 
+                  <hi>THat the Revenue will be thereby taken from the View and Control of the Lord Treaſurer, Chancellor, and Barons of the Exchequer, and put into the manegery of the Pipe, without any Control.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> If it ſhall be thought fit that the Revenue, now in the managery of the <hi>Auditors</hi> and <hi>Receivers,</hi> which con<g ref="char:EOLhyphen"/>ſiſts chiefly of Fee-farm Rents, Tenths, perpetual Pen<g ref="char:EOLhyphen"/>tions, and other dry Rents, which are no ways improve<g ref="char:EOLhyphen"/>able, as well of divers antient Demeaſn and Eſcheat Lands of the Crown, and Forreſt-Lands, Biſhops Lands, and other Lands gotten by Exchange, and Lands
+<pb n="17" facs="tcp:99447:10"/>that came by Attainder or Purchaſe, that were long time together accompted for in the great Roll; as alſo of Monaſtery and Chantry Lands, ſhall be charged in the great Roll, then not only thoſe Rents, but alſo all other Rents, now charged in the ſaid great Roll, being once particularly and diſtinctly charged in the Roll, with<g ref="char:EOLhyphen"/>in every Hundred and Diviſion out of which they are iſ<g ref="char:EOLhyphen"/>ſuing; and that the ſame be declared before the Lord Treaſurer, Chancellor, Under-Treaſurer, and Barons, and be computed and caſt up in one entire ſum within every diviſion, and the Sum Total of the whole certain Revenues in every County be ingroſſed in the Roll (which may be exactly performed within the Compaſſe of one year) then the true ſtate of the ſaid Revenue both in point of charge and diſcharge, will come more certainly entirely and readily, to the view and Comptroll of the aforeſaid Supreme Officers of the Court in one accompt within every County, then it hath at any time heretofore in hundreds of accompts done, and be under the antient Comptroll of all the aforeſaid chief miniſterial Officers of the ſaid Court, intruſted for and under them, and will be brought in according to law, and the ac<g ref="char:EOLhyphen"/>compts thereof will be ingroſſed, heard, and deter<g ref="char:EOLhyphen"/>mined in a judicial way, and no part thereof diſcharged but by judgement of Court, or by the Kings Letters Pa<g ref="char:EOLhyphen"/>tents or Writs, under the Great or Privy Seal.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> 
+                  <hi>That the Summons of the Pipe is a weak proceſſe, and that Debts are not Scheduled in a year or two for ſtronger pro<g ref="char:EOLhyphen"/>ceſſe to be thereupon made, and that the Uſage and Courſe of the Exchequer ever have been and are repugnant to the Sta<g ref="char:EOLhyphen"/>tute</hi> 51 <hi>H.</hi> 3.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Summons of the Pipe is no weak proceſſe,as is unadviſedly Aſſerted, for it tranſcends all other com<g ref="char:EOLhyphen"/>mands in any of the Kings Writs, for enjoyning the She<g ref="char:EOLhyphen"/>riffs to the performance of what is therein required, and
+<pb n="18" facs="tcp:99447:11"/>there hath ever been five times more money yearly levi<g ref="char:EOLhyphen"/>ed and anſwered upon this proceſſe, then upon all other the proceſſe of the Court, and it ought to be the firſt proceſſe for levying the Kings Debts, unleſs the Supreme Officers of the Court, do for ſome extraordinary cauſe, order that proceſs of extent ſhould iſſue; and Debts not anſwered upon the Summons are forthwith put into the Schedula Pipe, and ſent to the Remembrancer for ſtronger proceſſe.</p>
+               <p>And the conſtant uſage, practice, and courſe of the Exchequer, hath always been, and yet is agreeable to the Statute of 51 <hi>H.</hi> 3. varying in this point, only that of late years (when the Crown Revenues within the Sheriffs Collection was much impaired) the Curſitour Baron (who was introduced but in the time of <hi>E.</hi> 2. in eaſe to the other Barons) hath performed that Service at the Sheriffs Proffers, Appoſals, and diſmiſſion out of Court, which before was Enacted to be performed be<g ref="char:EOLhyphen"/>fore the Treaſurer, Chancellor, and Barons, and is no ways repugnant thereunto, as the Auditors have miſſug<g ref="char:EOLhyphen"/>geſted.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> 
+                  <hi>That the Allowance to Sheriffs for levying the Revenue will exceed the preſent charge.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> If the Wiſdome of Parliament ſhall think fit that His Majeſty give ſome reaſonable Allowance for levying this Revenue, (the charge of the accompt being to be paid by Sheriffs) this will come far ſhort of the great charge the Crown is at, by Auditors, Receivers, Collectors, Stewards, Bailiffs, Wood-wards, Meſſengers, <hi>&amp;c.</hi> which (as the Learned Author Sir <hi>Robert Cotton</hi> in his Book called <hi>Cottoni Poſthuma pag.</hi> 181. amongſt other things well obſerves) amounted to above 12000. <hi>l. per Annum.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>4</label> 
+                  <hi>The hazzard by Failer by Sheriffs cannot be leſſe then by Receivers.</hi>
+               </p>
+               <pb n="19" facs="tcp:99447:11"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It is notoriouſly known how many Receivers in the time of Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and the late King <hi>Charles,</hi> have failed for very great Sums of mony, which were either never paid or elſe not paid at ſuch a rate <hi>per annum</hi> as the Intereſt amounted unto, but it cannot be proved that ever any one Sheriff failed in that kind.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>5</label> 
+                  <hi>That the Crown is like to be at loſſe by arbitrary allowances ſubject to no Comptroll.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Crown is neither like to be (nor indeed can be) at any loſſe by arbitrary allowances in the Sheriffs ac<g ref="char:EOLhyphen"/>compts, ſubject to no Comptroll (as is very abſurdly ſuggeſted;) Firſt, becauſe no allowance or diſcharge is there made, but by Warrant of the Lord Treaſurer, or Chancellor, or by virtue of the Kings Writs, or judge<g ref="char:EOLhyphen"/>ment of Court as aforeſaid. Secondly, by reaſon the ſaid Accompt muſt be under the antient due and legall Comptrollment before ſet forth and mentioned.</p>
+            </div>
+            <div type="answer">
+               <head>An <hi>Anſwer</hi> to the Miſchefs objected as to the <hi>Subject.</hi>
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> 
+                  <hi>THe Sheriff will be at exceſſive Charge and Trouble in giving Security.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſe. </seg>
+                  </label> The Sheriffs trouble to give ſecurity for every 100 <hi>l.</hi> will eaſily be provided for by the wiſdome of Parliament: For the Sheriff being choſen every year <hi>per Magnates &amp; Proveres regni,</hi> are perſons of quality and ſolvent Eſtate, within their own Counties and uſually elſewhere. And a Recognizance (if there were no other ſecurity) makes all the Sheriffs Eſtate lyable: Beſide, if proviſion be made that every Tenant and Farmor that payes 50. <hi>l.</hi> rent and upwards, may pay his Rent half-yearly into the Receipt, much of the Security will be taken off.</p>
+               <pb n="20" facs="tcp:99447:12"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> 
+                  <hi>The taking off the Sheriffs charge will be expenſive.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Expence of taking his charge yearly from the Pipe for this whole Revenue will be very inconſiderably more then the uſual Fees formerly paid for the Revenue now in charge there.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> 
+                  <hi>So will the yearly Rentall preſcribed by the Act.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> If the Sheriff make the Rentall himſelf (as he may if he pleaſe) the Charge will be nothing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>4</label> 
+                  <hi>The Burthen of paſſing the Sheriffs Account, and</hi> Quie<g ref="char:EOLhyphen"/>tus <hi>will be inſupportable.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Accompt will be very little longer, and the bur<g ref="char:EOLhyphen"/>then and trouble in paſſing the ſame much leſſe then for<g ref="char:EOLhyphen"/>merly, when the Forreign accompt of Seizures was in uſe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>5</label> 
+                  <hi>It will be a great trouble to the Sheriff to collect ſo many ſmall Rents diſperſed, within the time of his office.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> If the ſeveral ſmall Rents be collected by the petty Conſtables in every Pariſh, and by them paid to the High Conſtables of every Hundred, and by the High Conſtables paid over to the Sheriff, the Rents will be much better and eaſier collected and paid, then hereto<g ref="char:EOLhyphen"/>fore, without any trouble to the Sheriff.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>6</label> 
+                  <hi>The Sheriff endangered by entring into Recogniſance.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Sheriff having finiſhed his Accompt the Recogni<g ref="char:EOLhyphen"/>ſance is of no manner of force, whereby to endanger him or his Security, or their Poſterity.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>7</label> 
+                  <hi>If a proportionable Reward be allowed to the Sheriff for le<g ref="char:EOLhyphen"/>vying the Revenue, it takes away the Bread from the Audi<g ref="char:EOLhyphen"/>tors and Receivers and caſts it to the Sheriff.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The reward will be proportioned to the Sheriff, by the wiſdome of the Parliament. But in what ſenſe this may be a taking away the Auditors bread who are the Kings Servants, and caſting it to the Sheriff, is not underſtood. Indeed, the greateſt reward the Sheriff is like to have, will prove but as the Crums of thoſe Numerous and libe<g ref="char:EOLhyphen"/>ral allowances made to Auditors, Receivers, <hi>&amp;c.</hi>
+               </p>
+               <pb n="21" facs="tcp:99447:12"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>8</label> 
+                  <hi>His Majeſties Farmors and Tenants will be ſore vexed and burthened in double payments for levying, and diſcharge in the Great Roll.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> His Majeſties Farmers and Tenants will be by the courſe of the Exchequer clearly and abſolutely diſcharged at the years end upon Record in the Great Roll of all ſuch moneys as they pay to the Sheriff, without any man<g ref="char:EOLhyphen"/>ner of vexation trouble or charge for the ſame.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>9</label> 
+                  <hi>That the Auditors and Receivers will be diveſted of their Rights and Freeholds.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It is hoped they will be had in conſideration (if any alteration be) by the wiſdome and Juſtice of Parliament.</p>
+               <p>
+                  <hi>Now</hi> to prove that the Sheriffs have alwayes anciently been the only Receivers of the Crown Revenues and other Receivers avoyded as needleſſe and unprofitable, there needs no other proof to make it unqueſti<g ref="char:EOLhyphen"/>onable, but that one Writ of 16. <hi>Hen.</hi> 6. directed to the Treaſurer and Barons of the Exchequer, which was ſeconded by an Act of Councell in the time of Queen <hi>Mary.</hi>
+               </p>
+               <p>The tenor of the ſaid Writ <hi>anno</hi> 16. <hi>Hen.</hi> 6.</p>
+               <floatingText xml:lang="eng" type="writ">
+                  <body>
+                     <opener>
+                        <signed>Henricus Dei gratia Rex, &amp;c.</signed> 
+                        <salute>Theſſ. &amp; Baron. de Scaccar. ſalutem.</salute>
+                     </opener>
+                     <p>
+                        <note place="margin">King <hi>Hen.</hi> 6. Writ.</note> 
+                        <hi>Cum monſtratum ſit nobis qualiter dilectus noſtr. Robertus Whittingham Chivaler hab. officium Receptoris generalis omnium terr. &amp;c. que fuerunt Iohannis nuper Du<g ref="char:EOLhyphen"/>cis Bedford. Avunc. noſtri cariſſimi defunct. &amp; quod officium predict. non eſt ad commodum noſtrum, quia vadia &amp; feoda quae ea de cauſa de nobis percepta ſunt poſſunt bene fore omiſſa. Et quod Vicecomites noſtri poſſunt bene levare Revenciones in manibus neſtris exiſten prout fuit ante hoc tempus. Ideo vobis mandamus quod dictum Robertum exoneretis ab officio pre<g ref="char:EOLhyphen"/>dicto, &amp;c.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>By which it appears that this one extraordinary <hi>Recei<g ref="char:EOLhyphen"/>ver</hi>
+                  <pb n="22" facs="tcp:99447:13"/>in the time of King <hi>Hen.</hi> 6. was deemed a burthen and unneceſſary charge to the Crown, and therefore ac<g ref="char:EOLhyphen"/>cording to the conſtant courſe of the <hi>Exchequer,</hi> thought fit to be diſcharged of his Receipts, and the ſame to be transferred to the Sheriffes, <hi>prout fuit ante hoc tempus,</hi> which was ſo done accordingly.</p>
+               <p>The like we ſhall find in the third and fourth year of King <hi>Philip</hi> and Queen <hi>Mary,</hi> in a report made to their Majeſties by the then Lords of the Councell, upon ſome queſtion (after the annexation of the Court of augmen<g ref="char:EOLhyphen"/>tations to the <hi>Exchequer</hi>) whether the <hi>Sheriffs</hi> or <hi>Receivors</hi> were the fitteſt. Miniſters for receiving the Rents and Revenues of the Crown; and whether the Dutchy Court of <hi>Lancaſter</hi> ought not to be annexed to the <hi>Exchequer,</hi> and all Mannors to be demiſed in groſſe with their caſual<g ref="char:EOLhyphen"/>ties at a certain Rent, for cutting off all ſuperfluous ex<g ref="char:EOLhyphen"/>penſes.</p>
+               <floatingText xml:lang="eng" type="report">
+                  <body>
+                     <head>The Report is as followeth.</head>
+                     <p>SVmus in priori opinione,<note place="margin">The Report to King <hi>Philip</hi> and Queen <hi>Mary.</hi>
+                        </note> quod Vicecomes ſit maxime ido<g ref="char:EOLhyphen"/>neus qui recipiat annuos ridditus veſtrarum Majeſtatum infra limites ſuorum officiorum, &amp; de illis reſpondeat veſtris Majeſtatibus.</p>
+                     <p>Et ad id quod dicitur Vicecomites male jam reſpondere de iis quae eorum fidei committunter putemus id eo fieri, vel quia officiarii Scaccarii non urgeant neque inſtent prout eorum offi<g ref="char:EOLhyphen"/>cii eſt, vel quia ab initio male eliguntur: Et utri<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> huic malo facillime ſuccuritur ſi Viſecomites bene Eligantur.</p>
+                     <p>Et quod Vicecomites ſint ad hanc rem maxime idon ei, movemur iis rationibus quae ſequuntur.</p>
+                     <p>Vetera exempla hujus regni cum optime &amp; cum maximo honore regeretur oſtendunt quod omnes annui redditus coram ſolvebantur per Vicecomites.</p>
+                     <p>Nec putamus quod Vicecomites (preſertim ſi bene eligan<g ref="char:EOLhyphen"/>tur) erunt tam tardi in pecuniis ſolvendis computiſve redaen<g ref="char:EOLhyphen"/>dis, quam Receptores &amp; ſunt &amp; ſemper hactenus fuerunt.</p>
+                     <pb n="23" facs="tcp:99447:13"/>
+                     <p>Vicecomites (quorum officium annuum eſt) &amp; annuatim computa reddunt, non poſſunt celare pecunias veſtrarum Maje<g ref="char:EOLhyphen"/>ſtatum quemadmodum Receptores ſolent.</p>
+                     <p>Receptores enim (quorum officium perpetuum eſt) debita prioris anni ſolvunt ex redditibus ſequentis, quae fraus vita<g ref="char:EOLhyphen"/>bitur ſi Vicecomites perficiantur huic Cure: ac etiam annue expenſe quae nunc fiunt pro multis officiariis ceſſabunt.</p>
+                     <p>Viſecomites eliguntur de honeſtioribus, Equitibus, ſive Generoſis ſingulorum Comitatum: Receptores ſunt plerun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ho<g ref="char:EOLhyphen"/>mines nullius eſtimationis.</p>
+                     <p>Vicecomites Eliguntur annuatim per veſtras Majeſtates ex conſenſu Magnatum &amp; Judicum Regni: Receptores autem aſ<g ref="char:EOLhyphen"/>ſumuntur per privatos favores amicorum.</p>
+                     <p>Sumus etiam in priori opinione quod terrae &amp; poſſeſſiones Ducatus Lancaſtriae, poſſunt bene reduci ad Scaccarium: Et quod fieri poteſt ſalvis etiam omnibus Colonis ſive tenentibus dict. Ducatus, ſuis libertatibus, privilegiis &amp; conſuetudinibus quibus omnibus frui &amp; gaudere poſſunt, Coloni &amp; Tenentes predicti, non minus integre in Scaccario, quam nunc fruuntur in Curia Ducatus, &amp; ad hanc opinionem movemur iis ratio<g ref="char:EOLhyphen"/>nibus.</p>
+                     <p>Annue expenſe quae fiunt pro multis Officiariis Ducatus ceſſabunt.</p>
+                     <p>Terrae &amp; poſſeſſiones Ducatus Lancaſtriae, cum ſint in mul<g ref="char:EOLhyphen"/>tis &amp; ſeperatis Comitatibus poſſunt earum poſſeſſionem annui redditus per Com illorum Vicecometes uno labore colligi ſimul cum aliis redditibus.</p>
+                     <p>Cum Ducatus Lancaſtriae jam deſcenderit ad Reginam una<g ref="char:EOLhyphen"/>cum Corona, non videmus quare non debeant ejuſdem Ducatus terrae &amp; poſſeſſion. gubernare in Scaccario quemadmodum poſ<g ref="char:EOLhyphen"/>ſeſſiones Principat. Walliae, Ducatus Cornub. Eboraci, &amp; eo<g ref="char:EOLhyphen"/>rum conſilium.</p>
+                     <p>Nobis etiam non videtur praejudiciale ſed valde utile veſtris Majeſtatibus quod Maneria &amp; cum illis omnia caſualia locen<g ref="char:EOLhyphen"/>tur ad firmam, reſervatis Boſcis, Wardis, Maritagiis, Miner.
+<pb n="24" facs="tcp:99447:14"/>&amp; Advocationibus Eccleſiarum.</p>
+                     <p>Idem quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> putamus de ſylvis ceduis quos ſubboſcos dixi<g ref="char:EOLhyphen"/>mus, quos utile putamus ad firmam dimittere &amp; movemur ad hanc opinionem iis rationibus.</p>
+                     <p>Si locentur Maneria atque omnium aliorium generum terrae &amp; poſſeſſiones cum caſualibus &amp; ſubboſcis annui redditus ve<g ref="char:EOLhyphen"/>ſtrarum Majeſtatum erunt certi qui nunc incerti ſunt.</p>
+                     <p>Annui ſumptus reparationem Seneſcallorum eorum qui Ne<g ref="char:EOLhyphen"/>mora cuſtodiunt, &amp; multorum aliorum officiar. ceſſabunt.</p>
+                     <p>Multi annui redditus, &amp; multa ſervicia, quae nunc partim, dolo malo, partim, negligentia Seneſcallorum Balliorum &amp; a<g ref="char:EOLhyphen"/>liorum officiar. non exiguntur et ita paulatim pereunt: ſemper ſolventur cum firmarii &amp; propter privatum lucrum ſuum, &amp; propter obligationem qua tenebuntur diligentius illa curabunt.</p>
+                     <p>Miſeri Coloni, ſive pauperiores tenentes quibus variis arti<g ref="char:EOLhyphen"/>bus extorquentur pecuniae tam per officiarios quam per eorum famulos, honeſtius tractabuntur ſi dicta Maneria cum caſuali<g ref="char:EOLhyphen"/>bus &amp; ſylve cedue dentur ad Firmam honeſtis viris.</p>
+                     <p>Lucra etiam illa quae ex caſualibus &amp; ſubboſcis proveniunt, &amp; nunc malis artibus extorquentur per Officiarios, venient directe ad uſum veſtrarum Majeſtatum, atque id ſine ullo prae<g ref="char:EOLhyphen"/>judicio pauperiorum Colonorum qui plus favoris ſemper inve<g ref="char:EOLhyphen"/>nient in vicino firmario honeſto quam in extraneis emptoribus, Baliis, vel ſilvarum cuſtodibus.</p>
+                     <p>Et preterea poteſt aliis modis ſatis provideri contra firma<g ref="char:EOLhyphen"/>riorum avaritiam, contra Officiariorum vero infinitas frades aliter provideri non poteſt, idque longa experientia nimis cog<g ref="char:EOLhyphen"/>nitum eſt.</p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>As by the ſaid Report remaining in His Majeſties Library at White-Hall,</hi>
+                  <note place="margin">
+                     <hi>Vernon.</hi> p. 67.</note> 
+                  <hi>amongſt other things) may appear.</hi>
+               </p>
+               <p>
+                  <hi>Whereby it is moſt evident of what uſe and eſtimation Sheriffs (being but for a year) have alwayes been, for bringing in the Revenues of the Crown; eſpecially if they be well choſen, and held to the performance of
+<pb facs="tcp:99447:14"/>their duties by the Officers of</hi> Exchequer: <hi> with <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ther obſervation, How remiſſe the Receivers were in thoſe dayes, and had ever been in paying what they recei<g ref="char:EOLhyphen"/>ved, and making their accompts in due time.</hi>
+               </p>
+               <p>
+                  <hi>And ſutable thereunto is the prudent advice of that learned perſon Sir</hi> Robert Cotton <hi>in his book intituled</hi> Cot<g ref="char:EOLhyphen"/>toni Poſthuma, <hi>printed in 1651. Page 179,</hi>
+                  <note place="margin">
+                     <hi>Sir</hi> Robert Co<g ref="char:EOLhyphen"/>tons <hi>advice.</hi>
+                  </note> 
+                  <hi>in his Treaty of improving the Revenues of the Crown, who writeth to this effect, that in caſe the demiſeable lands of the Crown,</hi> per annum <hi>32000</hi> l; <hi>ſhould be paſſed in Fee-farm they would (one with the other) be advanced to a treble Rent. And again in theſe expreſſe words (page 181) that if the Purchaſer, or Farmer, pay his rent, into the Receipt him<g ref="char:EOLhyphen"/>ſelf half-yearly and ſtrike there his Tally, it will cut off at once, ſo many unneceſſary Receivers, Auditors, Stewards, Bailiffs,</hi> &amp;c. <hi>as ſtand the King in yearly above 12000</hi> l. <hi>And as for other dues or Revenues, which now fall under the charge of theſe Officers, the Collection and payment may be (as it hath been with the reſt from the time of King</hi> Henry <hi>2. untill of late dayes) laid on the Sheriffs of the Shires; and all the accompts left to the two Au<g ref="char:EOLhyphen"/>ditors of the Preſts to draw up, and Clerk of the Pipe to enter in</hi> Magno Rotulo, <hi>as in all former time. For (ſaith the ſame Author) it muſt ſeem ſtrange to all men of Judg<g ref="char:EOLhyphen"/>ment, that it ſhould be with theſe Officers (who had their beginning but ſince the 25. year of King</hi> Henry <hi>8. by addition of his new Revenue of 150000</hi> l. <hi>from the ſuppreſſed Monaſteries) otherwiſe then with all things in nature and reaſon,</hi> ceſſante cauſa, ceſſat effectus, <hi>not to be diſcontinued. When as all Crown-annexed-lands, that gave them their juſt employment, are for the moſt part paſſed, from the Soveraign into the Subjects poſſeſſion. Theſe are the expreſſe words of that learned Author in his book aforeſaid. All which is humbly offered to Con<g ref="char:EOLhyphen"/>ſideration,</hi> &amp;c.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
